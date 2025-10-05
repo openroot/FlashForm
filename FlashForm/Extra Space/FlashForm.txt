@@ -57,8 +57,8 @@
 26.	<[[	..	Primary	1.	Previous	2.	Current	3.	Next	::.	Secondary	]]>
 ::.	<[[	..	Forum	1.	Board	2.	Environment	3.	Stage	::.	Reference	]]>
 
-..	Portfolio, Probe, Bracket, Roll, Engine
-1.	
+..	<[[	..	Portfolio	1.	Probe	2.	Bracket	3.	Roll	::.	Engine	]]>
+1.	<[[	..	Date	1.	Set	2.	Number	3.	Calendar	::.	Time	]]>
 2.	
 3.	
 4.	
@@ -83,5 +83,5 @@
 23.	
 24.	
 25.	
-26.	
-::.	Electronic, Logic, Static, Dynamic, Mnemonic
+26.	<[[	..	Host	1.	Case	2.	Digit	3.	Option	::.	Disk	]]>
+::.	<[[	..	Electronic	1.	Logic	2.	Static	3.	Dynamic	::.	Mnemonic	]]>

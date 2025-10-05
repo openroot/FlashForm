@@ -56,3 +56,32 @@
 25.	<[[	..	Drive	1.	Basket	2.	Directory	3.	Vault	::.	Card	]]>
 26.	<[[	..	Primary	1.	Previous	2.	Current	3.	Next	::.	Secondary	]]>
 ::.	<[[	..	Forum	1.	Board	2.	Environment	3.	Stage	::.	Reference	]]>
+
+..	Portfolio, Probe, Bracket, Roll, Engine
+1.	
+2.	
+3.	
+4.	
+5.	
+6.	
+7.	
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+22.	
+23.	
+24.	
+25.	
+26.	
+::.	Electronic, Logic, Static, Dynamic, Mnemonic

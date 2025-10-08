@@ -60,11 +60,11 @@
 ..	<[[	..	Portfolio	1.	Probe	2.	Bracket	3.	Roll	::.	Engine	]]>
 1.	<[[	..	Date	1.	Set	2.	Number	3.	Calendar	::.	Time	]]>
 2.	<[[	..	Item	1.	Category	2.	Sequence	3.	Stock	::.	Part	]]>
-3.	
-4.	
-5.	
-6.	
-7.	
+3.	<[[	..	Sheet	1.	Top	2.	Centre	3.	Over	::.	Graph	]]>
+4.	<[[	..	Track	1.	Area	2.	Block	3.	Compound	::.	Shape	]]>
+5.	<[[	..	Routine	1.	Pool	2.	Form	3.	Cast	::.	Schedule	]]>
+6.	<[[	..	Ticket	1.	Entity	2.	Matrix	3.	History	::.	Token	]]>
+7.	<[[	..	Coupon	1.	Implicit	2.	Explicit	3.	Agent	::.	Screen	]]>
 8.	
 9.	
 10.	
@@ -77,11 +77,11 @@
 17.	
 18.	
 19.	
-20.	
-21.	
-22.	
-23.	
-24.	
+20.	<[[	..	Star	1.	Status	2.	Query	3.	Union	::.	Diagram	]]>
+21.	<[[	..	Test	1.	Mail	2.	Kit	3.	Shell	::.	Result	]]>
+22.	<[[	..	Element	1.	Sign	2.	Dock	3.	Phase	::.	Material	]]>
+23.	<[[	..	Push	1.	Frame	2.	Rate	3.	Total	::.	Pull	]]>
+24.	<[[	..	Assembly	1.	Low	2.	Medium	3.	High	::.	Control	]]>
 25.	<[[	..	Web	1.	Ledger	2.	Currency	3.	Inventory	::.	Macro	]]>
 26.	<[[	..	Host	1.	Case	2.	Digit	3.	Option	::.	Disk	]]>
 ::.	<[[	..	Electronic	1.	Logic	2.	Static	3.	Dynamic	::.	Mnemonic	]]>

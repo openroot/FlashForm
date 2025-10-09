@@ -65,18 +65,18 @@
 5.	<[[	..	Routine	1.	Pool	2.	Form	3.	Cast	::.	Schedule	]]>
 6.	<[[	..	Ticket	1.	Entity	2.	Matrix	3.	History	::.	Token	]]>
 7.	<[[	..	Coupon	1.	Implicit	2.	Explicit	3.	Agent	::.	Screen	]]>
-8.	
-9.	
-10.	
-11.	
-12.	
-13.	
-14.	
-15.	
-16.	
-17.	
-18.	
-19.	
+8.	<[[	..	Icon	1.	Bit	2.	Bar	3.	Pixel	::.	Logo	]]>
+9.	<[[	..	Variable	1.	Iteration	2.	Pattern	3.	Course	::.	Article	]]>
+10.	<[[	..	Coin	1.	App	2.	Sort	3.	Zone	::.	Tool	]]>
+11.	<[[	..	Flow	1.	Lap	2.	Dot	3.	Span	::.	Network	]]>
+12.	<[[	..	Reverse	1.	Length	2.	Height	3.	Width	::.	Command	]]>
+13.	<[[	..	Meta	1.	Plus	2.	Minus	3.	Divide	::.	Cost	]]>
+14.	<[[	..	Profile	1.	Degree	2.	Parallel	3.	Multiple	::.	Cabinet	]]>
+15.	<[[	..	Inverse	1.	Invert	2.	Depth	3.	Breadth	::.	Template	]]>
+16.	<[[	..	Core	1.	Square	2.	Circle	3.	Triangle	::.	Space	]]>
+17.	<[[	..	Panel	1.	Origin	2.	Local	3.	Remote	::.	Display	]]>
+18.	<[[	..	View	1.	Pay	2.	Invoice	3.	Receipt	::.	Bill	]]>
+19.	<[[	..	Draft	1.	Memo	2.	Clip	3.	Show	::.	Prototype	]]>
 20.	<[[	..	Star	1.	Status	2.	Query	3.	Union	::.	Diagram	]]>
 21.	<[[	..	Test	1.	Mail	2.	Kit	3.	Shell	::.	Result	]]>
 22.	<[[	..	Element	1.	Sign	2.	Dock	3.	Phase	::.	Material	]]>

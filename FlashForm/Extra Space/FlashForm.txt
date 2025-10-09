@@ -1,32 +1,32 @@
 *	FlashForm: Interactive Data Management
-..	Platform
-1.	Overview
-2.	Workspace
-3.	Volume
-4.	Dimension
-5.	Hierarchy
-6.	Library
-7.	Bank
-8.	Derivative
-9.	Intelligence
-10.	Transformation
-11.	Application
-12.	Media
-13.	Statistics
-14.	Probability
-15.	Product
-16.	Distribution
-17.	Preservation
-18.	Conversion
-19.	Integration
-20.	Reservation
-21.	Package
-22.	Information
-23.	Structure
-24.	Version
-25.	Storage
-26.	Progress
-::.	Gateway
+..	Platform: Type
+1.	Overview: Establishment
+2.	Workspace: Architecture
+3.	Volume: Classification
+4.	Dimension: Enterprise
+5.	Hierarchy: Department
+6.	Library: Mining
+7.	Bank: Building
+8.	Derivative: Manufacturing
+9.	Intelligence: Organisation
+10.	Transformation: Corporation
+11.	Application: Framework
+12.	Media: Creative
+13.	Statistics: Council
+14.	Probability: Committee
+15.	Product: Grid
+16.	Distribution: Policy
+17.	Preservation: Trust
+18.	Conversion: Commerce
+19.	Integration: Service
+20.	Reservation: Development
+21.	Package: Factory
+22.	Information: Journal
+23.	Structure: Industry
+24.	Version: Marketplace
+25.	Storage: Infrastructure
+26.	Progress: Laboratory
+::.	Gateway: Branch
 
 ..	<[[	..	Website	1.	Domain	2.	Mirror	3.	Checksum	::.	Database	]]>
 1.	<[[	..	Context	1.	Synopsis	2.	Analysis	3.	Thesis	::.	Summary	]]>

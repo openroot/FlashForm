@@ -1,4 +1,4 @@
-*	FlashForm: Interactive Data Management
+*	flashForm43: Interactive Data Management
 ..	Platform: Type
 1.	Overview: Establishment
 2.	Workspace: Architecture
